@@ -1,0 +1,23 @@
+
+{
+  "name": "Elite Family Restaurant & Bakers",
+  "short_name": "Elite Restaurant",
+  "description": "Menu and contact details for Elite Family Restaurant & Bakers, Kattanam",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f5ee",
+  "theme_color": "#17202b",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
